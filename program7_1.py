@@ -1,4 +1,4 @@
-# Cole Chervitz Class 2019
+# Cole Class 2019
 
 import random 
 
